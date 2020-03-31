@@ -2414,6 +2414,14 @@ input, select, textarea {
 				width: 100%;
 			}
 
+/* Responsive */
+
+.responsive {
+  max-width: 100%;
+  height: auto;
+}
+
+
 /* Video */
 
 .video-container {
